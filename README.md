@@ -33,7 +33,7 @@ checkout times for both male and female at 8 and 9 am as well as 5 and 6 pm.
 
 ![image](https://user-images.githubusercontent.com/74743437/119170201-ec43e080-ba30-11eb-8e7a-e4e181a273a1.png)
 
-This chart shows thatMale subscribers have the most amount of bike checkouts throughout the week, when compared to females.
+This chart shows that Male subscribers have the most amount of bike checkouts throughout the week, when compared to females.
 Also, Both female and male users remained constant throughout the week.
 
 ![image](https://user-images.githubusercontent.com/74743437/119168404-d9301100-ba2e-11eb-9ed3-2401ee6c1144.png)
