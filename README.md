@@ -45,3 +45,5 @@ These are the popular ending spots for NYC bike renters.
 Based in these analyses, there is a high demand for bike rentals. With both male and females renting out bikes at a fast rate. The most popular time is Monday, Tuesday and Thursdays. With Monday and Tuesday at 8, 9 am and 5,6 pm. Thursdays with 8 am and 5,6 pm. This is all throughout the month of August which has warm weather perfect for biking.
 
 I would suggest doing a visualization of weather patterns throughout the year to see which month is adequate for bike riding. I would also suggest a traffic pattern visualization to keep track on heavy traffic to avoid during bike riding sessions.
+
+[Link to Tableu Dashboard] https://public.tableau.com/profile/manrique.pineda#!/vizhome/NYCBikeSharing/BikePopularity?publish=yes
